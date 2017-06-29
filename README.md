@@ -1,5 +1,6 @@
 # Napakalaki-Java
-Prácticas de la asignatura Programación y Diseño Orientado a Objetos de 2º de Grado en Ingeniería Informática de la UGR
+Prácticas de la asignatura Programación y Diseño Orientado a Objetos de 2º de Grado en Ingeniería Informática de la UGR.
+Basado en el conocido juego de cartas de rol Munchkin.
 
 Está escrito en Java, e incluye una sencilla interfaz gráfica de usuario.
 
